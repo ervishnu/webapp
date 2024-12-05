@@ -1,0 +1,5 @@
+username:12234
+password:hello
+API Key: AHJ123455688999
+database_UN: SQLUser
+database_Password: admin@123
